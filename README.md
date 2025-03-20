@@ -1,4 +1,4 @@
-## Hi There!, I'm Gowri ✨
+## Hi there!, I'm Gowri ✨
 
 🧬 Bioinformatics PostGrad<br/>
 👩🏽‍💻 Data Science Enthusiast<br/>
