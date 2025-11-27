@@ -1,6 +1,5 @@
 ## Hi there!, I'm Gowri ✨
 
-🧬 Bioinformatics PostGrad<br/>
 👩🏽‍💻 Cloud Engineer<br/>
 💫Hands-on experience in cloud, devops and data science
 
