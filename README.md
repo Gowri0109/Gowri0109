@@ -1,8 +1,8 @@
 ## Hi there!, I'm Gowri ✨
 
 🧬 Bioinformatics PostGrad<br/>
-👩🏽‍💻 Data Science Enthusiast<br/>
-💫 Currently Seeking a job opportunity 
+👩🏽‍💻 Cloud Engineer<br/>
+💫Hands-on experience in cloud, devops and data science
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gowrisuresh01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowris0109@gmail.com) 
