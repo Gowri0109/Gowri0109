@@ -1,6 +1,6 @@
 ## Hi there!, I'm Gowri ✨
 
-👩🏽‍💻 Cloud Engineer<br/>
+👩🏽‍💻 Cloud & DevOps Engineer<br/>
 💫Hands-on experience in cloud, devops and data science
 
 ## 🌐 Socials:
