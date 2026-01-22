@@ -19,6 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=Gowri0109&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=Gowri0109=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Gowri0109&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
